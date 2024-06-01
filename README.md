@@ -1,4 +1,4 @@
-# Analizando la taza actividad criminal en los angeles
+# Analizando la taza de actividad criminal en los angeles
 
 ## Los Ángeles, California 😎. La Ciudad de los Ángeles. Pueblo de oropel. ¡La capital mundial del entretenimiento!
 
@@ -14,4 +14,25 @@ Es una versión modificada de los datos originales, que está disponible públic
 ## Concluciones 
 ### ¿Qué hora tiene la mayor frecuencia de delitos en los Angeles?
 
+![horas](plots/horas.png)
 
+
+Respuesta: Es mas probable sufrir de algun crimen en LA  a MEDIO DIA!!!
+
+### ¿Qué zona tiene la mayor frecuencia de delitos nocturnos (delitos cometidos entre las 10 de la noche y las 3:59 de la madrugada)?
+
+![areas](plots/area.png)
+
+Respuesta: La zona menos recomendable para diambular en la noche es la zona centro de LA
+
+###  Identificando el número de delitos cometidos contra víctimas de diferentes grupos de edad
+
+![areas](plots/edades.png)
+
+Respuesta: Las personas entre 26 y 34 años sulen sufrir mas delitos en la ciudad
+
+### Genero y origen de la gente que mas sule sufir crimen en los angeles 
+
+![areas](plots/origen.png)
+
+Respuesta: La gente de origen hispano suele ser los que mas sufren del crimen, seguido por los afro-americanos y depues los blancos. Tiene sentido, debido a que LA es la segunda ciudad con mas hispanos en el mundo, despues de la CDMX.
